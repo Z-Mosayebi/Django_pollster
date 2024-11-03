@@ -1,0 +1,23 @@
+# Python cache files
+__pycache__/
+*.py[cod]
+
+# Virtual environment
+venv/
+env/
+
+# Environment variables
+.env
+
+
+
+# Django static and media files
+staticfiles/
+media/
+
+# IDE settings
+.vscode/
+.idea/
+
+# Log files
+*.log
